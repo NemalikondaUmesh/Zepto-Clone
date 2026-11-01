@@ -24,8 +24,6 @@ A responsive online grocery shopping web application inspired by Zepto, develope
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Homepage
 ![Homepage](screenshots/HomePage.png.png)
 
@@ -60,36 +58,32 @@ A responsive online grocery shopping web application inspired by Zepto, develope
 
 ```text
 Zepto-Clone/
-│
-├── index.html
-├── style.css
-├── script.js
-├── Cart.html
-├── Cart.css
-├── Cart.js
-├── Category.html
-├── Category.css
-├── Category.js
-├── Products.html
-├── Products.css
-├── Products.js
-├── Wishlist.html
-├── Wishlist.css
-├── Wishlist.js
-├── location.js
-├── Order.js
-├── Trail.js
-│
-├── assets/
-│   ├── hero-background-1.png
-│   ├── hero-background-2.png
-│   └── hero-background-3.png
-│
-└── screenshots/
-    ├── homepage.png
-    ├── categories.png
-    ├── products.png
-    └── cart.png
+├── README.md
+├── screenshots/
+│   ├── HomePage.png.png
+│   ├── Categories.png.png
+│   ├── Products.png.png
+│   └── Cart.png.png
+└── Zepto-Clone-main/
+    ├── index.html
+    ├── style.css
+    ├── script.js
+    ├── Cart.html
+    ├── Cart.css
+    ├── Cart.js
+    ├── Category.html
+    ├── Category.css
+    ├── Category.js
+    ├── Products.html
+    ├── Products.css
+    ├── Products.js
+    ├── Wishlist.html
+    ├── Wishlist.css
+    ├── Wishlist.js
+    ├── location.js
+    ├── Order.js
+    ├── Trail.js
+    └── assets/
 ```
 
 ## 🎯 Project Objective
