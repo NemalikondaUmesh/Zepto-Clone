@@ -24,17 +24,19 @@ A responsive online grocery shopping web application inspired by Zepto, develope
 
 ## 📸 Screenshots
 
-### 1. Homepage
-![Homepage](screenshots/HomePage.png)
+## 📸 Screenshots
 
-### 2. Product Categories
-![Categories](screenshots/Categories.png)
+### Homepage
+![Homepage](screenshots/HomePage.png.png)
 
-### 3. Product Listing
-![Products](screenshots/Products.png)
+### Categories
+![Categories](screenshots/Categories.png.png)
 
-### 4. Shopping Cart
-![Shopping Cart](screenshots/Cart.png)
+### Products
+![Products](screenshots/Products.png.png)
+
+### Shopping Cart
+![Cart](screenshots/Cart.png.png)
 
 ## ⚙️ Installation and Setup
 
