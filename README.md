@@ -25,17 +25,16 @@ A responsive online grocery shopping web application inspired by Zepto, develope
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/HomePage.png.png)
+![Homepage](Zepto-Clone-main/Screenshots/HomePage.png.png)
 
 ### Categories
-![Categories](screenshots/Categories.png.png)
+![Categories](Zepto-Clone-main/Screenshots/Categories.png.png)
 
 ### Products
-![Products](screenshots/Products.png.png)
+![Products](Zepto-Clone-main/Screenshots/Products.png.png)
 
 ### Shopping Cart
-![Cart](screenshots/Cart.png.png)
-
+![Cart](Zepto-Clone-main/Screenshots/Cart.png.png)
 ## ⚙️ Installation and Setup
 
 1. Clone the repository:
